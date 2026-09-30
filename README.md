@@ -31,7 +31,7 @@ See [how I lead](operating-model/how-i-lead.md) for the operating principles beh
 
 Most of the work described here was completed in private corporate repositories that I do not own and cannot reproduce. These retrospective case studies document my responsibilities and outcomes without publishing employer-confidential source code, internal architecture, customer information, credentials, or proprietary documents.
 
-Claims about my role and results are drawn from my approved résumé. Public links provide independent product and company context; they are not presented as proof of private implementation details. See [claim and sourcing methodology](methodology/claim-sourcing.md).
+Public links provide independent product and company context; they are not presented as proof of private implementation details. See [claim and sourcing methodology](methodology/claim-sourcing.md).
 
 ## Connect
 
